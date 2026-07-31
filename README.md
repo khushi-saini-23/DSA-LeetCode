@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0041-first-missing-positive) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
