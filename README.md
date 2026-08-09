@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0041-first-missing-positive) |
+| [0202-happy-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0905-sort-array-by-parity](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
@@ -49,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
