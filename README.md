@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0633-sum-of-square-numbers](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
