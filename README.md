@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0202-happy-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Enumeration
