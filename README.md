@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 ## Manacher
 |  |
 | ------- |
