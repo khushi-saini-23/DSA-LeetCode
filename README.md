@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2427-number-of-common-factors](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2427-number-of-common-factors) |
+| [2806-account-balance-after-rounded-purchase](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
