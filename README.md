@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1470-shuffle-the-array) |
+| [1528-shuffle-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1528-shuffle-string) |
 | [1929-concatenation-of-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0392-is-subsequence) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1528-shuffle-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1528-shuffle-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 ## Manacher
 |  |
