@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0414-third-maximum-number) |
+| [0605-can-place-flowers](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0605-can-place-flowers) |
 ## Union-Find
 |  |
 | ------- |
