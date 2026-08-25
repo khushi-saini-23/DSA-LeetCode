@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1528-shuffle-string) |
 | [1929-concatenation-of-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2109-adding-spaces-to-a-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0043-multiply-strings) |
 | [1389-create-target-array-in-the-given-order](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1528-shuffle-string) |
+| [2109-adding-spaces-to-a-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 ## Manacher
 |  |
