@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
+| [3110-score-of-a-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/3110-score-of-a-string) |
 ## Manacher
 |  |
 | ------- |
