@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 ## Binary Search
 |  |
 | ------- |
