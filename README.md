@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 ## Binary Search
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2129-capitalize-the-title) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [3110-score-of-a-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/3110-score-of-a-string) |
 ## Manacher
