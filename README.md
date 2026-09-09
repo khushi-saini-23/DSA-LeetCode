@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0917-reverse-only-letters) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [0917-reverse-only-letters](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0917-reverse-only-letters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
