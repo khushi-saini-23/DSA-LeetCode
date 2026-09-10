@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0041-first-missing-positive) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0189-rotate-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0043-multiply-strings) |
 | [0171-excel-sheet-column-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0015-3sum) |
+| [0189-rotate-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0541-reverse-string-ii) |
