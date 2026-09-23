@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
+| [1122-relative-sort-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1122-relative-sort-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
+| [1122-relative-sort-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Enumeration
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1122-relative-sort-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Matrix
@@ -250,4 +254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0645-set-mismatch) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
