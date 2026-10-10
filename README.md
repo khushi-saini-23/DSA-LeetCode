@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
