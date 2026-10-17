@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0202-happy-number) |
+| [0233-number-of-digit-one](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0233-number-of-digit-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0877-stone-game) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0053-maximum-subarray) |
+| [0233-number-of-digit-one](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0233-number-of-digit-one) |
 | [0392-is-subsequence](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0877-stone-game) |
 ## Game Theory
@@ -285,4 +287,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0050-powx-n) |
+| [0233-number-of-digit-one](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
