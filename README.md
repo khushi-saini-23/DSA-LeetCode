@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0233-number-of-digit-one) |
 | [0392-is-subsequence](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0877-stone-game) |
+| [1668-maximum-repeating-substring](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1668-maximum-repeating-substring) |
 ## Game Theory
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1528-shuffle-string) |
+| [1668-maximum-repeating-substring](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2109-adding-spaces-to-a-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1668-maximum-repeating-substring](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1668-maximum-repeating-substring) |
 ## Bit Manipulation
 |  |
 | ------- |
