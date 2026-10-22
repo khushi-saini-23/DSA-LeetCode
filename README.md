@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0015-3sum) |
 | [0164-maximum-gap](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0414-third-maximum-number) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0043-multiply-strings](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0043-multiply-strings) |
 | [0171-excel-sheet-column-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0179-largest-number) |
 | [0605-can-place-flowers](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0605-can-place-flowers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Union-Find
