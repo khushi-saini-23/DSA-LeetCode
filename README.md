@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
+| [2409-count-days-spent-together](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2427-number-of-common-factors) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2806-account-balance-after-rounded-purchase) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2129-capitalize-the-title) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2409-count-days-spent-together](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2409-count-days-spent-together) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [3110-score-of-a-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/3498-reverse-degree-of-a-string) |
