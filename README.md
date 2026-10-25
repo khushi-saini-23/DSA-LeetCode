@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0233-number-of-digit-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0877-stone-game](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
