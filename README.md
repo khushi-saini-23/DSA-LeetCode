@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0645-set-mismatch) |
+| [0713-subarray-product-less-than-k](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0713-subarray-product-less-than-k](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Divide and Conquer
 |  |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0567-permutation-in-string) |
+| [0713-subarray-product-less-than-k](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
