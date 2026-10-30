@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
