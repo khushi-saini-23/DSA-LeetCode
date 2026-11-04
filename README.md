@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
 |  |
 | ------- |
