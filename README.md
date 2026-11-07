@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -350,10 +353,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
