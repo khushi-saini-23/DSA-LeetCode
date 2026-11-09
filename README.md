@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0035-search-insert-position) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0018-4sum) |
 | [0141-linked-list-cycle](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0189-rotate-array) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0179-largest-number) |
