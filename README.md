@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0078-subsets) |
 | [0645-set-mismatch](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0645-set-mismatch) |
 ## Quicksort
 |  |
@@ -366,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
