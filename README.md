@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2806-account-balance-after-rounded-purchase](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0605-can-place-flowers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Union-Find
 |  |
 | ------- |
