@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3875-construct-uniform-parity-array-i](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
