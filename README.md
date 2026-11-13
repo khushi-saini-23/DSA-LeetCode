@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0233-number-of-digit-one](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0233-number-of-digit-one) |
 | [0392-is-subsequence](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0392-is-subsequence) |
