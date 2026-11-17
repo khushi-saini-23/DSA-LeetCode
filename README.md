@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0877-stone-game) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0043-multiply-strings) |
+| [0682-baseball-game](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0682-baseball-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2109-adding-spaces-to-a-string) |
@@ -387,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0078-subsets) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
