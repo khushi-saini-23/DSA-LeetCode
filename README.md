@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0043-multiply-strings) |
 | [0171-excel-sheet-column-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0179-largest-number) |
@@ -394,6 +395,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2390-removing-stars-from-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
