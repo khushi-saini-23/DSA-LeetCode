@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0917-reverse-only-letters) |
+| [1021-remove-outermost-parentheses](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1528-shuffle-string) |
@@ -404,9 +405,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/khushi-saini-23/DSA-LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
